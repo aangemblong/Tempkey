@@ -18,7 +18,7 @@
     "username": "biniw",
     "password": "biniw",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }, 
     {
     "id": "45930498fd92b141",
