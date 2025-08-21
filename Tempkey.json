@@ -77,11 +77,11 @@
     "allowOffline": false
   }, 
     {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
+    "id": "1753f8fe8214f7e2",
+    "username": "tasya",
+    "password": "tasya",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   },
  {
     "id": "android_device_id_2",
