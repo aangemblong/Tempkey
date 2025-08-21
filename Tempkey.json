@@ -78,16 +78,16 @@
   }, 
     {
     "id": "1753f8fe8214f7e2",
-    "username": "tasya",
-    "password": "tasya",
-    "expiresAt": "2025-11-30",
+    "username": "hitrax",
+    "password": "hitrax",
+    "expiresAt": "2025-09-02",
     "allowOffline": true
   },
  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
+    "id": "290a855bbc5d0ce5",
+    "username": "hitrax",
+    "password": "hitrax",
+    "expiresAt": "2025-09-02",
     "allowOffline": false
   }, 
     {
